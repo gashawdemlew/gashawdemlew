@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @gashawdemlew
 
 ## About Me
-I am a multi-faceted professional with a passion for leveraging data to drive impactful decisions. As a machine learning engineer, data scientist, lecturer, and researcher, I thrive at the intersection of technology and education.
+I am a multi-faceted professional with a passion for leveraging data to drive impactful decisions. As a data scientist, machine learning engineer, lecturer, and researcher, I thrive at the intersection of technology and education.
 
 ## Current Role
 🌱 I am currently working as a Data Scientist at a fintech company, focusing on the analysis of Micro, Small, and Medium Enterprises (MSMEs) to assess creditworthiness. I utilize alternative data and advanced machine learning techniques to provide accurate credit scoring.
